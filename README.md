@@ -2,7 +2,7 @@
 
 Number go up, bitches!
 
-[Image](./github/coinbitch.png?raw=true)
+[Image](https://github.com/wesleybliss/coinbitch/blob/master/github/coinbitch.png?raw=true)
 
 ## Getting Started
 
