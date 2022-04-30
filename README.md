@@ -2,7 +2,7 @@
 
 Number go up, bitches!
 
-![Image](github/coinbitch.png?raw=true)
+<img src="github/coinbitch.png?raw=true" width="50%" />
 
 ## Getting Started
 
